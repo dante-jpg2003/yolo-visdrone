@@ -175,10 +175,11 @@ cython_debug/
 
 # Data files
 data/raw/
+data/processed/
 *.mat
 
 #Ignores
-data/
+
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
